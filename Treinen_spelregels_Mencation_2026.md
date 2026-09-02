@@ -4,12 +4,12 @@
 
 ## Het spel in één minuut
 
-Treinen is het onderdeel **Ter Land**. Vier teams reizen langs vier stations. Bij ieder station verdienen ze punten met een korte opdracht. Soms moeten spelers een aantal slokken bier drinken.
+Treinen is het onderdeel **Ter Land**. Drie of vier teams reizen langs vier stations. Bij ieder station verdienen ze punten met een korte opdracht. Soms moeten spelers een aantal slokken bier drinken.
 
 Na de vier stations spelen alle teams tegelijk de finale: **De Laatste Trein**. Het team met de meeste punten wint.
 
-- Spelers: 20
-- Teams: 4 teams van 5
+- Spelers: 15 tot 20
+- Teams: 3 of 4 teams
 - Speelduur: ongeveer 90 minuten
 - Spelleider: De Conducteur
 
@@ -31,18 +31,28 @@ Als De Conducteur fluit, stopt iedereen direct. De Conducteur legt de opdracht u
 
 ## Teams maken
 
-Maak vier teams van vijf spelers:
+Verdeel de spelers zo eerlijk mogelijk:
 
-- Team Rood
-- Team Blauw
-- Team Groen
-- Team Geel
+| Aantal spelers | Verdeling |
+|---:|---|
+| 15 | 3 teams van 5 |
+| 16 | 4 teams van 4 |
+| 17 | 5, 4, 4 en 4 |
+| 18 | 5, 5, 4 en 4 |
+| 19 | 5, 5, 5 en 4 |
+| 20 | 4 teams van 5 |
+
+Gebruik Team Rood, Blauw en Groen. Voeg Team Geel toe als er vier teams zijn.
 
 Ieder team kiest één Machinist. De Machinist is het aanspreekpunt van het team.
 
+### Regel voor een team van vier
+
+Sommige opdrachten hebben vijf plaatsen. Bij een team van vier doet één speler daarom een tweede beurt. Kies iedere ronde een andere speler. Niemand doet twee beurten direct achter elkaar.
+
 ## De route
 
-Ieder team begint bij een ander station. Na 10 minuten fluit De Conducteur. De score wordt genoteerd en de teams gaan naar het volgende station.
+Ieder team begint bij een ander station. Met drie teams blijft steeds één station leeg. Na 10 minuten fluit De Conducteur. De score wordt genoteerd en de teams gaan naar het volgende station. Na vier rondes heeft ieder team alle stations gespeeld.
 
 Na alle vier de stations volgt een korte pauze. Daarna begint de finale.
 
@@ -129,14 +139,14 @@ Maak een kort parcours met:
 1. Speler 1 pakt de tas en het dienblad.
 2. De speler legt het parcours af en komt terug.
 3. Daarna neemt speler 2 de spullen over.
-4. Na speler 5 begint het team opnieuw bij speler 1.
+4. Na iedere vijf voltooide beurten begint een nieuwe serie.
 5. Valt er iets? Zet het terug op de plek waar het viel en ga verder.
 
 ## Slokken en punten
 
 - Parcours afgemaakt: 1 punt.
 - Iets laten vallen: de speler neemt na de finish 1 slok.
-- Alle vijf spelers achter elkaar foutloos: 2 bonuspunten.
+- Vijf beurten achter elkaar foutloos: 2 bonuspunten.
 
 ---
 
@@ -153,7 +163,7 @@ Maak maximaal drie volledige Flip Cup-treinen.
 
 ## Regels
 
-1. De vijf spelers staan naast elkaar.
+1. Vul vijf plaatsen naast elkaar. Bij een team van vier vult één speler twee plaatsen.
 2. Speler 1 neemt 1 slok uit zijn eigen blik.
 3. De speler zet een lege plastic beker op de rand van de tafel.
 4. Met één tik moet de beker ondersteboven op tafel landen.
@@ -176,7 +186,7 @@ Alle vier de teams spelen tegelijk. Ieder team krijgt een eigen, gelijke baan.
 
 ## Regels
 
-Iedere speler doet één onderdeel:
+Verdeel de vijf onderdelen over het team. Bij een team van vier doet één speler twee onderdelen die niet direct na elkaar komen.
 
 1. **De Sprinter:** ren om drie pionnen en terug.
 2. **De Schutter:** gooi het sein om.
@@ -193,7 +203,7 @@ De volgende speler mag pas beginnen als de vorige opdracht klaar is. Een mislukt
 | Eerste | 20 | 0 |
 | Tweede | 15 | 1 |
 | Derde | 10 | 2 |
-| Vierde | 5 | 3 |
+| Vierde, alleen bij vier teams | 5 | 3 |
 
 ---
 
@@ -218,12 +228,12 @@ Bij een gelijke stand kiest ieder gelijkstaand team één speler. Zij gooien ied
 - 6 zachte ballen
 - minimaal 12 pingpongballen
 - minimaal 40 stevige plastic bekers
-- 4 lege plastic flessen of andere omvalbare doelen
-- 4 tassen of kleine koffers
-- 4 dienbladen
-- 4 stoelen
+- 3 of 4 lege plastic flessen of andere omvalbare doelen
+- 3 of 4 tassen of kleine koffers
+- 3 of 4 dienbladen
+- 3 of 4 stoelen
 - 40 kleine voorwerpen als bagage
-- 4 tafels, of één grote tafel die per station wordt gebruikt
+- 3 of 4 tafels, of één grote tafel die per station wordt gebruikt
 - keukenrol en vuilniszakken
 
 ## Drank
@@ -247,4 +257,3 @@ Absint wordt niet gebruikt voor slokken, shots of opdrachten op snelheid. Als ju
 - Speel niet op een gladde ondergrond.
 - Wie zich niet goed voelt, stopt direct met drinken en spelen.
 - Wie nog moet rijden, drinkt geen alcohol.
-
