@@ -2,249 +2,249 @@
 
 ⬅️ [Terug naar het spellenoverzicht](Mencation_2026_spellenoverzicht.md)
 
-## In het kort
+## Het spel in één minuut
 
-Treinen is het onderdeel **Ter Land** van Mencation 2026. Het is een korte teamcompetitie met rennen, mikken, samenwerken en kleine drankopdrachten.
+Treinen is het onderdeel **Ter Land**. Vier teams reizen langs vier stations. Bij ieder station verdienen ze punten met een korte opdracht. Soms moeten spelers een aantal slokken bier drinken.
 
-- Aantal spelers: 20
-- Teams: 4 teams van 5 spelers
+Na de vier stations spelen alle teams tegelijk de finale: **De Laatste Trein**. Het team met de meeste punten wint.
+
+- Spelers: 20
+- Teams: 4 teams van 5
 - Speelduur: ongeveer 90 minuten
 - Spelleider: De Conducteur
-- Doel: verzamel met je team de meeste punten
 
-Alcohol is niet verplicht. Bier, 0.0, fris of water werken allemaal hetzelfde. Niemand hoeft in één keer een glas of fles leeg te drinken.
+## Belangrijkste regel
+
+Als De Conducteur fluit, stopt iedereen direct. De Conducteur legt de opdracht uit, houdt de tijd bij en noteert de punten.
+
+## Slokken bier
+
+- Iedere speler drinkt uit zijn eigen blik.
+- Eén slok betekent één normale slok bier, geen grote teug.
+- Slokken worden direct na de poging genomen, behalve als De Conducteur anders zegt.
+- Een speler krijgt per mislukte poging nooit meer dan 2 slokken.
+- Absint telt nooit als een slok bier.
 
 ---
 
-## Wat is de bedoeling?
+# Voorbereiding
 
-Er zijn vier stations. Elk team begint bij een ander station. Na tien minuten fluit De Conducteur. De teams stoppen, hun score wordt genoteerd en iedereen gaat door naar het volgende station.
+## Teams maken
 
-Na alle vier de stations volgt de finale: **De Laatste Trein**.
-
-## De teams
-
-Maak vier teams van vijf personen. Geef ieder team een kleur:
+Maak vier teams van vijf spelers:
 
 - Team Rood
 - Team Blauw
 - Team Groen
 - Team Geel
 
-Ieder team kiest voor de start een teamnaam en één Machinist. De Machinist is het aanspreekpunt van het team en geeft de score door aan De Conducteur.
+Ieder team kiest één Machinist. De Machinist is het aanspreekpunt van het team.
 
-## Tijdschema
+## De route
 
-| Onderdeel | Tijd |
-|---|---:|
-| Teams maken en regels uitleggen | 10 minuten |
-| Vier stations | 4 × 10 minuten |
-| Wisselen tussen stations | 3 × 3 minuten |
-| Korte pauze en finale klaarzetten | 10 minuten |
-| De Laatste Trein | 15 minuten |
-| Uitslag | 5 minuten |
-| **Totaal** | **ongeveer 90 minuten** |
+Ieder team begint bij een ander station. Na 10 minuten fluit De Conducteur. De score wordt genoteerd en de teams gaan naar het volgende station.
+
+Na alle vier de stations volgt een korte pauze. Daarna begint de finale.
 
 ---
 
-# De vier stations
+# Station 1 – Flunkyball Express
 
-## Station 1 – Flunkyball Express
+## Doel
 
-### Doel
+Gooi het sein om en haal zo veel mogelijk bagage op.
 
-Gooi het sein om en breng zo veel mogelijk lading naar de trein.
+## Klaarzetten
 
-### Klaarzetten
-
-- Zet een lege fles of pion ongeveer 6 meter van de werplijn.
-- Leg drie zachte ballen bij de werplijn.
-- Zet een krat met tien kleine voorwerpen naast het sein.
+- Zet een pion of lege plastic fles 6 meter van de werplijn.
+- Leg 3 zachte ballen bij de werplijn.
+- Leg 10 kleine voorwerpen naast het sein.
 - Zet een lege krat bij het team.
 
-### Zo werkt het
+## Regels
 
-1. Eén speler gooit een bal naar het sein.
-2. Mis? De volgende speler mag direct gooien.
-3. Raak? Eén andere speler rent naar het sein.
-4. De loper zet het sein rechtop, neemt één stuk lading mee en rent terug.
-5. Ondertussen haalt een derde speler de ballen terug.
-6. Zodra iedereen terug is, mag de volgende speler gooien.
-7. Wissel steeds van werper en loper, zodat iedereen meedoet.
+1. Speler 1 gooit op het sein.
+2. Mis? De volgende speler gooit.
+3. Raak? Een teamgenoot rent naar het sein.
+4. De loper zet het sein rechtop en neemt één stuk bagage mee terug.
+5. Een andere speler haalt ondertussen de ballen op.
+6. Pas als de loper terug is, mag het team opnieuw gooien.
+7. Wissel steeds van werper en loper.
 
-### Score
+## Slokken en punten
 
-- Elk teruggebracht voorwerp is 1 punt.
-- Is alle lading binnen? Zet de tien voorwerpen terug en ga door.
+- Drie missers achter elkaar: de drie werpers nemen ieder 1 slok.
+- Ieder opgehaald voorwerp: 1 punt.
+- Zijn alle 10 voorwerpen opgehaald? Leg ze terug en speel verder.
 
-## Station 2 – Perron Pong
+---
 
-### Doel
+# Station 2 – Perron Pong
 
-Gooi pingpongballen in bekers op verschillende afstanden.
+## Doel
 
-### Klaarzetten
+Gooi pingpongballen in bekers op drie verschillende afstanden.
 
-- Perron 1: drie bekers dichtbij
-- Perron 2: drie bekers op normale afstand
-- Perron 3: drie bekers ver weg
-- Vul de bekers met een klein laagje water. Dit water wordt niet gedronken.
+## Klaarzetten
 
-### Zo werkt het
+- Perron 1: 3 bekers dichtbij
+- Perron 2: 3 bekers op normale afstand
+- Perron 3: 3 bekers ver weg
+- Vul de bekers met een klein laagje water.
 
-1. Iedere speler krijgt twee worpen per beurt.
-2. Na twee worpen sluit de speler achteraan aan.
-3. Een geraakte beker blijft staan. Zo kan dezelfde beker opnieuw punten opleveren.
-4. Speel door tot de tijd voorbij is.
+## Regels
 
-### Score
+1. Iedere speler krijgt per beurt 2 worpen.
+2. Daarna sluit de speler achteraan aan.
+3. De bekers blijven de hele ronde staan.
+4. Speel door tot De Conducteur fluit.
 
-- Beker op Perron 1: 1 punt
-- Beker op Perron 2: 2 punten
-- Beker op Perron 3: 3 punten
+## Slokken en punten
 
-## Station 3 – De Bagageband
+- Beide worpen mis: de speler neemt 1 slok.
+- Raak op Perron 1: 1 punt.
+- Raak op Perron 2: 2 punten.
+- Raak op Perron 3: 3 punten.
 
-### Doel
+---
 
-Breng de bagage zo snel mogelijk door het parcours zonder iets te verliezen.
+# Station 3 – De Bagageband
 
-### Klaarzetten
+## Doel
+
+Breng de bagage door het parcours zonder iets te laten vallen.
+
+## Klaarzetten
 
 Maak een kort parcours met:
 
 - een startlijn;
-- drie pionnen om doorheen te slalommen;
-- een stoel waar de speler omheen moet;
-- een dienblad met een plastic beker;
-- een tas of kleine koffer.
+- 3 pionnen om doorheen te slalommen;
+- 1 stoel om omheen te lopen;
+- 1 tas of kleine koffer;
+- 1 dienblad met daarop een lege plastic beker.
 
-### Zo werkt het
+## Regels
 
-1. Speler 1 pakt de bagage en het dienblad.
-2. De speler gaat door het parcours en weer terug.
-3. Daarna worden de spullen aan speler 2 gegeven.
-4. Dit gaat door tot alle vijf spelers zijn geweest.
-5. Daarna begint het team opnieuw.
-6. Valt de beker of bagage? Zet alles terug op de plek waar het viel en ga verder.
+1. Speler 1 pakt de tas en het dienblad.
+2. De speler legt het parcours af en komt terug.
+3. Daarna neemt speler 2 de spullen over.
+4. Na speler 5 begint het team opnieuw bij speler 1.
+5. Valt er iets? Zet het terug op de plek waar het viel en ga verder.
 
-### Score
+## Slokken en punten
 
-- Iedere speler die het volledige parcours afmaakt: 1 punt.
-- Een hele ronde met alle vijf spelers zonder iets te laten vallen: 2 bonuspunten.
+- Parcours afgemaakt: 1 punt.
+- Iets laten vallen: de speler neemt na de finish 1 slok.
+- Alle vijf spelers achter elkaar foutloos: 2 bonuspunten.
 
-Niet rennen met glazen flessen of echt glas.
+---
 
-## Station 4 – Spoorwissel
+# Station 4 – Spoorwissel
 
-### Doel
+## Doel
 
-Voltooi als team zo veel mogelijk Flip Cup-treinen.
+Maak maximaal drie volledige Flip Cup-treinen.
 
-### Klaarzetten
+## Klaarzetten
 
-- Zet vijf stevige plastic bekers op de rand van een tafel.
-- Doe in iedere beker een klein afgesproken slokje drank.
-- Gebruik voor wie niet drinkt 0.0, fris of water.
+- Zet 5 stevige plastic bekers op de rand van een tafel.
+- Iedere speler houdt zijn eigen blik bier bij zich.
 
-### Zo werkt het
+## Regels
 
 1. De vijf spelers staan naast elkaar.
-2. Speler 1 neemt het kleine slokje.
-3. Zet de beker met de rand op de tafel.
-4. Probeer de beker met één tik omgekeerd op tafel te laten landen.
+2. Speler 1 neemt 1 slok uit zijn eigen blik.
+3. De speler zet een lege plastic beker op de rand van de tafel.
+4. Met één tik moet de beker ondersteboven op tafel landen.
 5. Pas als dit lukt, mag speler 2 beginnen.
-6. Na speler 5 is één trein klaar.
-7. Vul de bekers opnieuw met dezelfde kleine hoeveelheid en begin opnieuw.
+6. Als speler 5 klaar is, is één trein voltooid.
+7. Speel maximaal drie volledige treinen.
 
-### Score
+## Punten
 
-- Iedere voltooide trein van vijf spelers: 5 punten.
-- Een trein die nog niet compleet is wanneer de tijd stopt: 1 punt per geslaagde speler.
+- Iedere geslaagde cupflip: 1 punt.
+- Een volledige trein: dus 5 punten.
+- Maximum: 15 punten.
+- Zijn drie treinen voltooid? Noteer de eindtijd voor een eventuele gelijke stand.
 
 ---
 
 # Finale – De Laatste Trein
 
-Alle vier de teams spelen tegelijk. Ieder team krijgt een eigen baan met dezelfde materialen.
+Alle vier de teams spelen tegelijk. Ieder team krijgt een eigen, gelijke baan.
 
-## Zo werkt de finale
+## Regels
 
-Iedere speler doet één deel. Voor de start kiest het team wie welk deel uitvoert.
+Iedere speler doet één onderdeel:
 
-1. **De Sprinter** rent om drie pionnen en terug.
-2. **De Schutter** gooit een bal en moet het sein omgooien.
-3. **De Bagageman** brengt een tas en dienblad door een kort parcours.
-4. **De Spoorwerker** bouwt tien bekers op als piramide en ruimt ze weer op.
-5. **De Machinist** doet één geslaagde cupflip en drukt op de eindbel.
+1. **De Sprinter:** ren om drie pionnen en terug.
+2. **De Schutter:** gooi het sein om.
+3. **De Bagageman:** breng een tas en dienblad door het parcours.
+4. **De Spoorwerker:** bouw 10 bekers op als piramide en ruim ze weer op.
+5. **De Machinist:** doe één geslaagde cupflip en druk op de eindbel.
 
-Een speler mag pas beginnen als de vorige speler klaar is. Mislukt een opdracht, dan blijft de speler proberen totdat het lukt.
+De volgende speler mag pas beginnen als de vorige opdracht klaar is. Een mislukte opdracht moet opnieuw worden geprobeerd.
 
-## Finale-punten
+## Finalepunten en slokken
 
-| Plaats | Punten |
-|---|---:|
-| Eerste | 20 punten |
-| Tweede | 15 punten |
-| Derde | 10 punten |
-| Vierde | 5 punten |
-
-De finale telt zwaar mee, maar een team dat bij de stations goed speelde houdt voordeel.
-
----
-
-# Wisselstoringen
-
-Voor extra chaos mag De Conducteur aan het begin van ieder station één kaart trekken. Gebruik dit alleen als iedereen de basisregels begrijpt.
-
-Voorbeelden:
-
-- **Seinstoring:** iedereen gebruikt de niet-dominante hand.
-- **Vertraging:** het team begint 15 seconden later.
-- **Eerste klas:** het team krijgt direct 2 bonuspunten.
-- **Personeelstekort:** één gekozen speler moet de eerste minuut langs de kant staan.
-- **Omleiding:** twee spelers moeten van taak wisselen.
-- **Snelspoor:** de eerste 30 seconden tellen alle punten dubbel.
-
-Geef bij voorkeur ieder team evenveel positieve en negatieve kaarten.
+| Plaats | Punten | Slokken per speler |
+|---|---:|---:|
+| Eerste | 20 | 0 |
+| Tweede | 15 | 1 |
+| Derde | 10 | 2 |
+| Vierde | 5 | 3 |
 
 ---
 
 # Winnaar
 
-De Conducteur telt alle punten van de vier stations en de finale bij elkaar op.
+De Conducteur telt de punten van de vier stations en de finale bij elkaar op. Het team met de meeste punten wint **Treinen – Ter Land** en krijgt de **Gouden Treinkaart**.
 
-Het team met de meeste punten wint **Treinen – Ter Land** en ontvangt de **Gouden Treinkaart**.
-
-Bij een gelijke stand kiest ieder gelijkstaand team één speler. Deze spelers krijgen ieder drie worpen op het sein. Wie het vaakst raakt, wint.
+Bij een gelijke stand kiest ieder gelijkstaand team één speler. Zij gooien ieder drie keer op het sein. De speler met de meeste treffers wint voor zijn team.
 
 ---
 
 # Benodigdheden
 
-- scoreformulier en pennen;
-- fluitje, bel of luide timer;
-- vier teamkleuren of lintjes;
-- pionnen;
-- zachte ballen;
-- pingpongballen;
-- stevige plastic bekers;
-- vier lege flessen of omvalbare doelen;
-- kleine tas of koffer;
-- dienblad;
-- plastic bekers voor het parcours;
-- tien kleine voorwerpen als lading;
-- tafel;
-- drank, 0.0, fris en water;
-- keukenrol en vuilniszakken.
+## Spelmaterialen
 
-# Afspraken voor veilig en leuk spelen
+- 1 scoreformulier
+- 2 pennen
+- 1 telefoon met timer
+- 1 fluitje of bel
+- 4 kleuren lintjes of hesjes
+- minimaal 12 pionnen
+- 6 zachte ballen
+- minimaal 12 pingpongballen
+- minimaal 40 stevige plastic bekers
+- 4 lege plastic flessen of andere omvalbare doelen
+- 4 tassen of kleine koffers
+- 4 dienbladen
+- 4 stoelen
+- 40 kleine voorwerpen als bagage
+- 4 tafels, of één grote tafel die per station wordt gebruikt
+- keukenrol en vuilniszakken
 
-- Drinken is altijd vrijwillig. Een alcoholvrije vervanger telt hetzelfde.
-- Gebruik kleine slokken; geen volle glazen of flessen in één keer.
-- De Conducteur mag een opdracht stoppen of aanpassen.
-- Niet duwen, tackelen of expres hinderen.
-- Gebruik geen glas bij de spellen.
-- Speel niet op een gladde ondergrond en ruim gemorste drank meteen op.
-- Zorg dat er water en eten beschikbaar zijn.
-- Wie rijdt, drinkt geen alcohol.
+## Drank
+
+- blikken bier, herkenbaar per speler;
+- voldoende drinkwater;
+- de absint apart en buiten het speelveld bewaren.
+
+## Over de absint
+
+Absint wordt niet gebruikt voor slokken, shots of opdrachten op snelheid. Als jullie de absint na het spel willen gebruiken, laat De Conducteur één vooraf afgesproken hoeveelheid afmeten en verdunnen volgens het etiket. Het levert geen punten op en is geen straf.
+
+---
+
+# Korte afspraken
+
+- De beslissing van De Conducteur is definitief.
+- Niet duwen, tackelen of een ander team hinderen.
+- Gebruik geen echt glas in het speelveld.
+- Ruim gemorst bier direct op.
+- Speel niet op een gladde ondergrond.
+- Wie zich niet goed voelt, stopt direct met drinken en spelen.
+- Wie nog moet rijden, drinkt geen alcohol.
+
