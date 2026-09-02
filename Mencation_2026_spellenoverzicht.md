@@ -6,9 +6,9 @@ Tijdens Mencation 2026 spelen we drie grote spellen. Elk spel heeft een eigen th
 
 | Volgorde | Onderdeel | Spel | Spelvorm | Duur |
 |---:|---|---|---|---:|
-| 1 | Ter land | Treinen | Fysieke teamcompetitie | ± 90 minuten |
-| 2 | Ter zee | Boten | Tactische strijd tussen bemanningen | ± 90 minuten |
-| 3 | In de lucht | De Piloot | Quiz met vragen, snelheid en gokken | Nog te bepalen |
+| 1 | Ter land | De Bierexpress | Doorlopend teamspel | Afhankelijk van de route |
+| 2 | Ter zee | Boten | Teamspel of individueel geheugenspel | ± 30–45 minuten |
+| 3 | In de lucht | De Piloot | Quiz met vragen, snelheid en gokken | ± 90–120 minuten |
 
 ---
 
@@ -45,7 +45,7 @@ Boten heeft voorlopig twee mogelijke spellen. Bij **De Blikkenboot** drinken tea
 
 ## 3. De Piloot – In de lucht
 
-De Piloot is de afsluitende quiz. De quizmaster is De Piloot en leest de vragen en opdrachten vanaf zijn telefoon voor. Het spel bestaat uit tien rondes. Iedere ronde heeft drie verschillende onderdelen.
+De Piloot is de afsluitende quiz. De quizmaster is De Piloot en leest de vragen en opdrachten vanaf zijn telefoon voor. Het spel bestaat uit vier hoofdrondes. Iedere hoofdronde heeft drie onderdelen en twee onverwachte vluchtproblemen.
 
 **Onderdelen per ronde**
 
@@ -53,7 +53,7 @@ De Piloot is de afsluitende quiz. De quizmaster is De Piloot en leest de vragen 
 2. Blitzkrieg-ronde
 3. Gokronde
 
-Bij een fout antwoord volgt een kleine drankstraf. De straf wordt per hoofdronde zwaarder. De precieze opbouw leggen we vast in het losse spelreglement.
+De vaste straf loopt op van 8 slokken in hoofdronde 1 tot 32 slokken in hoofdronde 4. Blitzkrieg gaat vanaf een willekeurige speler met de klok mee. De Gokronde wordt gezamenlijk per team gespeeld met een foutmarge van 10%.
 
 ➡️ [Open het werkdocument van De Piloot](De_Piloot_spelregels_Mencation_2026.md)
 
@@ -84,4 +84,4 @@ De definitieve puntentelling bepalen we zodra alle drie de spellen volledig zijn
 |---|---|
 | Treinen | De Bierexpress vastgelegd; hoeveelheid drank en route volgen later |
 | Boten | Twee spelopties vastgelegd; keuze volgt later |
-| De Piloot | Basisconcept klaar; rondes en strafopbouw nog uitwerken |
+| De Piloot | Eerste volledige conceptversie klaar |
