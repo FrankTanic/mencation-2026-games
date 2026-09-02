@@ -14,12 +14,12 @@ Tijdens Mencation 2026 spelen we drie grote spellen. Elk spel heeft een eigen th
 
 ## 1. Treinen – Ter land
 
-Treinen is een fysieke competitie voor vier teams van vijf spelers. De teams bezoeken vier stations met opdrachten rond mikken, snelheid, behendigheid en samenwerken. Daarna spelen alle teams de finale: **De Laatste Trein**.
+Treinen is een fysieke competitie voor 15 tot 20 spelers, verdeeld over drie of vier teams. De teams bezoeken vier stations met opdrachten rond mikken, snelheid, behendigheid en samenwerken. Daarna spelen alle teams de finale: **De Laatste Trein**.
 
 **Snel overzicht**
 
-- 20 spelers
-- 4 teams van 5
+- 15 tot 20 spelers
+- 3 of 4 teams
 - 4 stations
 - 1 gezamenlijke finale
 - De meeste punten winnen
@@ -86,4 +86,3 @@ De definitieve puntentelling bepalen we zodra alle drie de spellen volledig zijn
 | Treinen | Eerste volledige versie klaar |
 | Boten | Basisopzet klaar; regels nog uitwerken |
 | De Piloot | Basisconcept klaar; rondes en strafopbouw nog uitwerken |
-
