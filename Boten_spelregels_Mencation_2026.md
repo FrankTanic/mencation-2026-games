@@ -2,20 +2,28 @@
 
 ⬅️ [Terug naar het spellenoverzicht](Mencation_2026_spellenoverzicht.md)
 
+## Status
+
+Voor **Boten – Ter Zee** zijn twee mogelijke spellen gekozen:
+
+1. **De Blikkenboot**
+2. **Ik ga varen en neem mee**
+
+Later beslissen we welk spel tijdens Mencation 2026 wordt gespeeld.
+
+---
+
+# Optie 1 – De Blikkenboot
+
 ## Het spel in één minuut
 
-In een grote schaal water drijft een lege plastic beker: de boot. Spelers schenken om de beurt bier in de boot. Wie de boot laat zinken, bezorgt zijn team een lek en moet drinken.
-
-Na 12 gezonken boten wint het team met de minste lekken.
+Ieder team drinkt bier en bouwt met de lege blikken een boot. Terwijl één speler drinkt, mogen de andere spelers bouwen. Het eerste team met een complete boot wint.
 
 - Spelers: 15 tot 20
 - Teams: 3 of 4 teams
-- Spelleider: De Kapitein
-- Speelduur: ongeveer 45 tot 60 minuten
+- Speelduur: ongeveer 30 tot 45 minuten
 
 ## Teams
-
-Gebruik dezelfde teams als bij Treinen:
 
 | Aantal spelers | Verdeling |
 |---:|---|
@@ -26,48 +34,88 @@ Gebruik dezelfde teams als bij Treinen:
 | 19 | 5, 5, 5 en 4 |
 | 20 | 4 teams van 5 |
 
-Ieder team kiest één teamcaptain. Binnen ieder team komt iedere speler om de beurt aan de beurt.
-
 ## Benodigdheden
 
-- 1 grote schaal, pan of afwasteil
-- 1 lichte plastic beker
-- blikken bier
-- 12 muntjes, doppen of bierviltjes
-- 1 telefoon met timer
-
-## Klaarzetten
-
-1. Vul de grote schaal met water.
-2. Laat de lege plastic beker in het water drijven.
-3. Zet de schaal in het midden.
-4. Leg voor ieder team een eigen plek voor de lekken klaar.
-5. Bepaal de volgorde van de teams.
+- 2 blikken bier per speler
+- Een vlak stuk vloer per team
+- Een telefoon met timer
 
 ## Regels
 
-1. Eén speler houdt zijn blik boven de drijvende beker.
-2. De Kapitein zegt: **start**.
-3. De speler schenkt bier in de beker.
-4. De Kapitein telt één seconde en zegt: **stop**.
-5. Blijft de beker drijven? Dan is het volgende team aan de beurt.
-6. Zinkt de beker? Dan krijgt het team van de speler één lek.
-7. De speler die de beker liet zinken neemt 5 slokken bier.
-8. Zijn teamgenoten nemen ieder 2 slokken bier.
-9. Zet de lege beker opnieuw in het water.
-10. Het team na het verliezende team begint de volgende boot.
+1. Per team mag steeds één speler drinken.
+2. Zodra het blik leeg is, zet de speler het ondersteboven.
+3. Het lege blik mag nu worden gebruikt voor de boot.
+4. Daarna begint de volgende speler met drinken.
+5. De spelers moeten elkaar steeds afwisselen.
+6. Terwijl één speler drinkt, mogen de anderen bouwen.
+7. Alle lege blikken moeten onderdeel zijn van de boot.
+8. Valt de boot om? Dan neemt de speler die het laatste blik plaatste 3 slokken.
+9. Daarna mag het team opnieuw bouwen.
+10. De complete boot moet 10 seconden zelfstandig blijven staan.
 
-Een speler mag tijdens het schenken niet eerder stoppen dan het stopsein van De Kapitein.
+## De boot bouwen
 
-## Einde van het spel
+### Team van vier – 8 blikken
 
-Het spel stopt zodra de boot 12 keer is gezonken.
+- Onderste laag: 4 blikken
+- Tweede laag: 3 blikken
+- Bovenste laag: 1 blik als stuurhut
 
-Het team met de minste lekken wint **Boten – Ter Zee**.
+### Team van vijf – 10 blikken
 
-## Gelijke stand
+- Onderste laag: 5 blikken
+- Tweede laag: 4 blikken
+- Bovenste laag: 1 blik als stuurhut
 
-Bij een gelijke stand spelen alleen de gelijkstaande teams verder met een nieuwe lege boot.
+De blikken moeten op elkaar staan. Alleen blikken naast elkaar leggen telt niet.
 
-De teams schenken om de beurt. Het eerste gelijkstaande team dat de boot laat zinken, verliest.
+## Winnaar
+
+Wanneer een team klaar is, roept het:
+
+> **SCHIP AHOY!**
+
+De spelleider telt 10 seconden af. Blijft de boot staan, dan wint het team. Valt de boot om, dan moet het team verder bouwen.
+
+---
+
+# Optie 2 – Ik ga varen en neem mee
+
+## Het spel in één minuut
+
+Iedere speler herhaalt om de beurt een steeds langere lijst met spullen voor een bootreis. Daarna voegt de speler zelf één nieuw voorwerp toe. Wie een fout maakt, moet drinken.
+
+- Spelers: 15 tot 20
+- Iedereen speelt individueel
+- Speelduur: ongeveer 30 tot 45 minuten
+
+## Benodigdheden
+
+- Blikken bier
+- Een telefoon of papiertje om fouten bij te houden
+
+## Regels
+
+1. Iedereen zit of staat in een kring.
+2. Speler 1 zegt: **“Ik ga varen en neem mee: een anker.”**
+3. Speler 2 herhaalt het anker en voegt één nieuw voorwerp toe.
+4. Iedere volgende speler herhaalt de volledige lijst in de juiste volgorde.
+5. Daarna voegt die speler één nieuw voorwerp toe.
+6. Een voorwerp mag maar één keer in de lijst voorkomen.
+7. Een verkeerd, vergeten of dubbel genoemd voorwerp is een fout.
+8. Bij een fout neemt de speler 3 slokken en krijgt één foutpunt.
+9. De lijst vervalt en de volgende speler begint een nieuwe lijst.
+10. Het spel stopt na 10 fouten.
+
+## Voorbeeld
+
+- Speler 1: “Ik ga varen en neem mee: een anker.”
+- Speler 2: “Een anker en een reddingsvest.”
+- Speler 3: “Een anker, een reddingsvest en een kompas.”
+
+## Winnaar
+
+Na 10 fouten wint de speler met de minste foutpunten.
+
+Bij een gelijke stand beginnen de gelijkstaande spelers samen een nieuwe lijst. De eerste speler die een fout maakt, verliest.
 
