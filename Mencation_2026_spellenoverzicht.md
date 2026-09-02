@@ -30,15 +30,14 @@ Treinen is een fysieke competitie voor 15 tot 20 spelers, verdeeld over drie of 
 
 ## 2. Boten – Ter zee
 
-Boten is één eenvoudig, doorlopend drinkspel. In een grote schaal water drijft een plastic beker. Spelers schenken om de beurt bier in deze boot. Wie de boot laat zinken, bezorgt zijn team een lek en moet drinken.
+Boten heeft voorlopig twee mogelijke spellen. Bij **De Blikkenboot** drinken teams blikken bier leeg en bouwen ze met de lege blikken een boot. Bij **Ik ga varen en neem mee** herhalen spelers individueel een steeds langere lijst met spullen voor een bootreis.
 
 **Snel overzicht**
 
 - 15 tot 20 spelers
-- 3 of 4 teams
-- Eén drijvende boot
-- 12 gezonken boten
-- Het team met de minste lekken wint
+- De Blikkenboot: 3 of 4 teams
+- Ik ga varen en neem mee: individueel
+- Definitieve keuze volgt later
 
 ➡️ [Open het werkdocument van Boten](Boten_spelregels_Mencation_2026.md)
 
@@ -84,5 +83,5 @@ De definitieve puntentelling bepalen we zodra alle drie de spellen volledig zijn
 | Spel | Status |
 |---|---|
 | Treinen | Eerste volledige versie klaar |
-| Boten | Eerste volledige versie klaar |
+| Boten | Twee spelopties vastgelegd; keuze volgt later |
 | De Piloot | Basisconcept klaar; rondes en strafopbouw nog uitwerken |
