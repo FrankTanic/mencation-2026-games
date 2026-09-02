@@ -2,36 +2,22 @@
 
 ⬅️ [Terug naar het spellenoverzicht](Mencation_2026_spellenoverzicht.md)
 
+# De Bierexpress
+
 ## Het spel in één minuut
 
-Treinen is het onderdeel **Ter Land**. Drie of vier teams reizen langs vier stations. Bij ieder station verdienen ze punten met een korte opdracht. Soms moeten spelers een aantal slokken bier drinken.
+Ieder team vormt een trein en krijgt bij vertrek een lading drank. Onderweg staan meerdere stations met nieuwe drank die het team moet meenemen.
 
-Na de vier stations spelen alle teams tegelijk de finale: **De Laatste Trein**. Het team met de meeste punten wint.
+De spelers bepalen zelf wie hoeveel drinkt. Bij het eindstation moeten alle opgehaalde verpakkingen leeg worden ingeleverd. Het eerste team dat dit als complete trein doet, wint.
 
 - Spelers: 15 tot 20
 - Teams: 3 of 4 teams
-- Speelduur: ongeveer 90 minuten
 - Spelleider: De Conducteur
+- Speelduur: afhankelijk van de route
 
-## Belangrijkste regel
+## Teams
 
-Als De Conducteur fluit, stopt iedereen direct. De Conducteur legt de opdracht uit, houdt de tijd bij en noteert de punten.
-
-## Slokken bier
-
-- Iedere speler drinkt uit zijn eigen blik.
-- Eén slok betekent één normale slok bier, geen grote teug.
-- Slokken worden direct na de poging genomen, behalve als De Conducteur anders zegt.
-- Een speler krijgt per mislukte poging nooit meer dan 2 slokken.
-- Absint telt nooit als een slok bier.
-
----
-
-# Voorbereiding
-
-## Teams maken
-
-Verdeel de spelers zo eerlijk mogelijk:
+Verdeel de spelers zo gelijk mogelijk:
 
 | Aantal spelers | Verdeling |
 |---:|---|
@@ -42,218 +28,88 @@ Verdeel de spelers zo eerlijk mogelijk:
 | 19 | 5, 5, 5 en 4 |
 | 20 | 4 teams van 5 |
 
-Gebruik Team Rood, Blauw en Groen. Voeg Team Geel toe als er vier teams zijn.
+Gebruik bijvoorbeeld Team Rood, Blauw, Groen en Geel.
 
-Ieder team kiest één Machinist. De Machinist is het aanspreekpunt van het team.
+## Benodigdheden
 
-### Regel voor een team van vier
-
-Sommige opdrachten hebben vijf plaatsen. Bij een team van vier doet één speler daarom een tweede beurt. Kies iedere ronde een andere speler. Niemand doet twee beurten direct achter elkaar.
+- Drank voor het startstation
+- Drank voor de tussenstations
+- Gekleurde stickers of tape voor de teams
+- Eventueel één tas of rugzak per team voor de lege verpakkingen
+- Een telefoon met timer
 
 ## De route
 
-Ieder team begint bij een ander station. Met drie teams blijft steeds één station leeg. Na 10 minuten fluit De Conducteur. De score wordt genoteerd en de teams gaan naar het volgende station. Na vier rondes heeft ieder team alle stations gespeeld.
+De route bestaat uit:
 
-Na alle vier de stations volgt een korte pauze. Daarna begint de finale.
+1. **Startstation** – hier ontvangt ieder team de eerste lading.
+2. **Tussenstations** – hier haalt ieder team nieuwe drank op.
+3. **Eindstation** – hier wordt de lege lading gecontroleerd en ingeleverd.
 
----
+De Conducteur bepaalt vooraf hoeveel tussenstations er zijn en welke drank bij ieder station staat.
 
-# Station 1 – Flunkyball Express
+Bij ieder tussenstation staat voor elk team een apart pakket. Markeer ieder pakket met de juiste teamkleur.
 
-## Doel
+## De trein vormen
 
-Gooi het sein om en haal zo veel mogelijk bagage op.
-
-## Klaarzetten
-
-- Zet een pion of lege plastic fles 6 meter van de werplijn.
-- Leg 3 zachte ballen bij de werplijn.
-- Leg 10 kleine voorwerpen naast het sein.
-- Zet een lege krat bij het team.
-
-## Regels
-
-1. Speler 1 gooit op het sein.
-2. Mis? De volgende speler gooit.
-3. Raak? Een teamgenoot rent naar het sein.
-4. De loper zet het sein rechtop en neemt één stuk bagage mee terug.
-5. Een andere speler haalt ondertussen de ballen op.
-6. Pas als de loper terug is, mag het team opnieuw gooien.
-7. Wissel steeds van werper en loper.
-
-## Slokken en punten
-
-- Drie missers achter elkaar: de drie werpers nemen ieder 1 slok.
-- Ieder opgehaald voorwerp: 1 punt.
-- Zijn alle 10 voorwerpen opgehaald? Leg ze terug en speel verder.
-
----
-
-# Station 2 – Perron Pong
-
-## Doel
-
-Gooi pingpongballen in bekers op drie verschillende afstanden.
-
-## Klaarzetten
-
-- Perron 1: 3 bekers dichtbij
-- Perron 2: 3 bekers op normale afstand
-- Perron 3: 3 bekers ver weg
-- Vul de bekers met een klein laagje water.
+1. De spelers gaan achter elkaar staan.
+2. De voorste speler is de **Machinist**.
+3. Iedere andere speler legt één hand op de schouder van de speler voor hem.
+4. De vrije hand wordt gebruikt om te drinken en drank door te geven.
+5. De trein moet vanaf de start tot de finish verbonden blijven.
 
 ## Regels
 
-1. Iedere speler krijgt per beurt 2 worpen.
-2. Daarna sluit de speler achteraan aan.
-3. De bekers blijven de hele ronde staan.
-4. Speel door tot De Conducteur fluit.
+1. Ieder team ontvangt bij de start zijn eerste lading.
+2. Bij het startsignaal vertrekken alle treinen.
+3. Het team bepaalt zelf wie welke drank drinkt.
+4. Eén speler mag dus meer drinken dan een andere speler.
+5. Volle en lege verpakkingen mogen binnen de trein worden doorgegeven.
+6. Bij ieder station moet de volledige trein stoppen.
+7. De Machinist pakt alleen het pakket met de eigen teamkleur.
+8. Pas als de volledige lading is meegenomen, mag de trein verder.
+9. Alle lege verpakkingen moeten worden bewaard.
+10. Een gemist station moet alsnog als complete trein worden bezocht.
 
-## Slokken en punten
+## Als de trein breekt
 
-- Beide worpen mis: de speler neemt 1 slok.
-- Raak op Perron 1: 1 punt.
-- Raak op Perron 2: 2 punten.
-- Raak op Perron 3: 3 punten.
+Laat iemand de schouder van de speler voor hem los?
 
----
+1. De volledige trein stopt direct.
+2. Ieder teamlid neemt 1 slok.
+3. Iedereen legt opnieuw een hand op de juiste schouder.
+4. Daarna mag de trein verder.
 
-# Station 3 – De Bagageband
+## Het eindstation
 
-## Doel
+Bij het eindstation komt het hele team verbonden over de finish.
 
-Breng de bagage door het parcours zonder iets te laten vallen.
+Een team is pas officieel binnen wanneer:
 
-## Klaarzetten
+- alle spelers aanwezig en verbonden zijn;
+- alle stations zijn bezocht;
+- alle opgehaalde drank op is;
+- alle lege verpakkingen zijn ingeleverd.
 
-Maak een kort parcours met:
+Heeft het team nog drank over? Dan wacht de trein vóór de finish totdat de volledige lading leeg is.
 
-- een startlijn;
-- 3 pionnen om doorheen te slalommen;
-- 1 stoel om omheen te lopen;
-- 1 tas of kleine koffer;
-- 1 dienblad met daarop een lege plastic beker.
+## Winnaar
 
-## Regels
+Het eerste team dat verbonden over de finish komt en de volledige lege lading correct inlevert, wint **De Bierexpress**.
 
-1. Speler 1 pakt de tas en het dienblad.
-2. De speler legt het parcours af en komt terug.
-3. Daarna neemt speler 2 de spullen over.
-4. Na iedere vijf voltooide beurten begint een nieuwe serie.
-5. Valt er iets? Zet het terug op de plek waar het viel en ga verder.
+## Hoeveel drank?
 
-## Slokken en punten
+De precieze lading wordt later bepaald op basis van de lengte van de route en het aantal stations.
 
-- Parcours afgemaakt: 1 punt.
-- Iets laten vallen: de speler neemt na de finish 1 slok.
-- Vijf beurten achter elkaar foutloos: 2 bonuspunten.
+De Conducteur zorgt dat ieder team ongeveer dezelfde hoeveelheid drank per speler krijgt. Een team van vijf krijgt daardoor meer totale lading dan een team van vier.
 
----
+Een mogelijke verdeling:
 
-# Station 4 – Spoorwissel
+| Locatie | Lading |
+|---|---|
+| Startstation | Eén blik per speler |
+| Tussenstation 1 | Extra bier |
+| Tussenstation 2 | Andere drank |
+| Tussenstation 3 | Laatste lading |
+| Eindstation | Alles leeg inleveren |
 
-## Doel
-
-Maak maximaal drie volledige Flip Cup-treinen.
-
-## Klaarzetten
-
-- Zet 5 stevige plastic bekers op de rand van een tafel.
-- Iedere speler houdt zijn eigen blik bier bij zich.
-
-## Regels
-
-1. Vul vijf plaatsen naast elkaar. Bij een team van vier vult één speler twee plaatsen.
-2. Speler 1 neemt 1 slok uit zijn eigen blik.
-3. De speler zet een lege plastic beker op de rand van de tafel.
-4. Met één tik moet de beker ondersteboven op tafel landen.
-5. Pas als dit lukt, mag speler 2 beginnen.
-6. Als speler 5 klaar is, is één trein voltooid.
-7. Speel maximaal drie volledige treinen.
-
-## Punten
-
-- Iedere geslaagde cupflip: 1 punt.
-- Een volledige trein: dus 5 punten.
-- Maximum: 15 punten.
-- Zijn drie treinen voltooid? Noteer de eindtijd voor een eventuele gelijke stand.
-
----
-
-# Finale – De Laatste Trein
-
-Alle vier de teams spelen tegelijk. Ieder team krijgt een eigen, gelijke baan.
-
-## Regels
-
-Verdeel de vijf onderdelen over het team. Bij een team van vier doet één speler twee onderdelen die niet direct na elkaar komen.
-
-1. **De Sprinter:** ren om drie pionnen en terug.
-2. **De Schutter:** gooi het sein om.
-3. **De Bagageman:** breng een tas en dienblad door het parcours.
-4. **De Spoorwerker:** bouw 10 bekers op als piramide en ruim ze weer op.
-5. **De Machinist:** doe één geslaagde cupflip en druk op de eindbel.
-
-De volgende speler mag pas beginnen als de vorige opdracht klaar is. Een mislukte opdracht moet opnieuw worden geprobeerd.
-
-## Finalepunten en slokken
-
-| Plaats | Punten | Slokken per speler |
-|---|---:|---:|
-| Eerste | 20 | 0 |
-| Tweede | 15 | 1 |
-| Derde | 10 | 2 |
-| Vierde, alleen bij vier teams | 5 | 3 |
-
----
-
-# Winnaar
-
-De Conducteur telt de punten van de vier stations en de finale bij elkaar op. Het team met de meeste punten wint **Treinen – Ter Land** en krijgt de **Gouden Treinkaart**.
-
-Bij een gelijke stand kiest ieder gelijkstaand team één speler. Zij gooien ieder drie keer op het sein. De speler met de meeste treffers wint voor zijn team.
-
----
-
-# Benodigdheden
-
-## Spelmaterialen
-
-- 1 scoreformulier
-- 2 pennen
-- 1 telefoon met timer
-- 1 fluitje of bel
-- 4 kleuren lintjes of hesjes
-- minimaal 12 pionnen
-- 6 zachte ballen
-- minimaal 12 pingpongballen
-- minimaal 40 stevige plastic bekers
-- 3 of 4 lege plastic flessen of andere omvalbare doelen
-- 3 of 4 tassen of kleine koffers
-- 3 of 4 dienbladen
-- 3 of 4 stoelen
-- 40 kleine voorwerpen als bagage
-- 3 of 4 tafels, of één grote tafel die per station wordt gebruikt
-- keukenrol en vuilniszakken
-
-## Drank
-
-- blikken bier, herkenbaar per speler;
-- voldoende drinkwater;
-- de absint apart en buiten het speelveld bewaren.
-
-## Over de absint
-
-Absint wordt niet gebruikt voor slokken, shots of opdrachten op snelheid. Als jullie de absint na het spel willen gebruiken, laat De Conducteur één vooraf afgesproken hoeveelheid afmeten en verdunnen volgens het etiket. Het levert geen punten op en is geen straf.
-
----
-
-# Korte afspraken
-
-- De beslissing van De Conducteur is definitief.
-- Niet duwen, tackelen of een ander team hinderen.
-- Gebruik geen echt glas in het speelveld.
-- Ruim gemorst bier direct op.
-- Speel niet op een gladde ondergrond.
-- Wie zich niet goed voelt, stopt direct met drinken en spelen.
-- Wie nog moet rijden, drinkt geen alcohol.
